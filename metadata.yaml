@@ -1,0 +1,26 @@
+_repo: Brief-Records-of-the-Independent-Church-at-Beccles-Suffolk-Including-biographical-notices-of-__51667
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rix, S. Wilton (Samuel Wilton)
+    alias: Rix, Samuel Wilton
+    gutenberg_agent_id: '46517'
+    url: http://www.gutenberg.org/2009/agents/46517
+description: ''
+gutenberg_issued: '2016-04-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Beccles (England) -- Independent church'
+- !lcsh 'Dissenters, Religious -- England -- East Anglia'
+- GITenberg
+title: "Brief Records of the Independent Church at Beccles, Suffolk\r\nIncluding biographical\
+  \ notices of its ministers,and some account of the rise of nonconformity in the\
+  \ East Anglian counties"
+url: http://www.gutenberg.org/ebooks/51667
