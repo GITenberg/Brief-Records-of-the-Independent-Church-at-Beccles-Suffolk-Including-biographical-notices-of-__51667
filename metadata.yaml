@@ -1,5 +1,8 @@
 _repo: Brief-Records-of-the-Independent-Church-at-Beccles-Suffolk-Including-biographical-notices-of-__51667
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rix, S. Wilton (Samuel Wilton)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '46517'
     url: http://www.gutenberg.org/2009/agents/46517
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51667#Brief-Records-of-the-Independent-Church-at-Beccles-Suffolk-Including-biographical-notices-of-_
 gutenberg_issued: '2016-04-05'
 gutenberg_type: Text
 identifiers:
